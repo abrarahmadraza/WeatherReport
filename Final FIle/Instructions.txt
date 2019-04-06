@@ -1,0 +1,57 @@
+----------------------------
+|  Username: "whether"  |
+|  Password:  "Weather" |
+---------------------------- 
+
+								You can play with the code.
+
+					            Try not to mess up code or files, if you do, then use the backup files to restore.
+								
+						                   	Never mess up with backup file.
+
+							           If you do, then pray to the almighty God.
+
+
+
+***************************************************************|
+                    :Pay Attention now:					|
+							|
+                    >whenever there are option write the full option in the choice.|
+							|
+                    ex: -one 						|
+                            -two					|
+							|
+                        like this-> enter: two				|
+							|
+                    >Whenever there is yes or no question.			|
+							|
+                        -write "yes" or "no"				|
+							|
+-}That's it good to go now{-					|
+							|
+****************************************************************
+_________________________________________________________
+here are the steps to use the app:				 |
+							 |
+>Home							 |
+							 |
+	-EDIT: to edit the data.				 |
+            -]All: to rewrite all the data.				 |
+            -]DATA:to edit specific places data.			 |
+            -]BACK:Simon go back.					 |
+            -]QUIT:Get out.					 |
+							 |
+							 |
+	-SHOW: Display the data.				 |
+            -]CURRENT:  current place weather.			 |
+            -]ALL    :  All data.					 |
+            -]SEARCH :  find specific [laces's weather.]			 |
+            -]SORTED :  show sorted in terms of attribute, of any place.	 |
+            -]QUIT   :  Get out.					 |
+							 |
+							 |
+	-COMPARE: Compare 3 days of data of one place.		 |
+        							 |
+	-QUIT:Quit the app.					 |
+							 |
+_________________________________________________________
